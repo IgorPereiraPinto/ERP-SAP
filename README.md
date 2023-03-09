@@ -1,4 +1,4 @@
-# ERP-SAP
+# SAP-ERP
 
 ## [E-Book: Front-End | SAP GUI](https://drive.google.com/file/d/1vOQ-AA-gHGCRW1YrHC0c52ty99KMMu8n/view?usp=sharing)
 
@@ -10,6 +10,12 @@
 
 - Baixando o SAP GUI 
 
-- Apresentação de exemplos de telas do SAP GUI
+- Exemplos de telas do SAP GUI
 
-- e fornece links para download das diferentes versões.
+## links
+- [Produto SAP ERP](https://www.sap.com/brazil/products/erp/what-is-sap-erp.html)
+- [Support SAP](https://support.sap.com/en/index.htmE)
+- [Tutorial SAP: melhores práticas para explorar](https://support.sap.com/content/dam/SAAP/Sol_Pack/Tutorials/Frame_05.04.html)
+- [Wikipedia SAP_ERP](https://pt.wikipedia.org/wiki/SAP_ERP)
+- [Open SAP | Cursos](https://open.sap.com/courses)
+- [Tutorial SAP S/4 HANA](https://www.tutorialspoint.com/sap_hana/sap_hana_overview.htm)
